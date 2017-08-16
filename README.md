@@ -1,2 +1,4 @@
 # hello-world
-a repository you can't avoid creating
+*a repository you cannot resist creating*
+
+Where is the Python?
